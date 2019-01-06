@@ -1,2 +1,2 @@
 # costila
-A Postfix inspired e-mail client/server
+A Postfix inspired e-mail server
